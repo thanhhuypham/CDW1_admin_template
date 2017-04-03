@@ -55,7 +55,7 @@
                                         <li>
                                             <a href="#">Dashboard2</a>
                                         </li>
-                                        <li class="current-page" style="margin-bottom: 8px;">
+                                        <li style="margin-bottom: 8px;">
                                             <a href="#">Dashboard3</a>
                                         </li>
                                     </ul>
